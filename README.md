@@ -31,9 +31,7 @@
 ---
 
 ## 🎮 游戏演示
-
-
-
+<img width="1922" height="1128" alt="image" src="https://github.com/user-attachments/assets/68841f41-6af4-4903-8d31-3aa7c15037e6" />
 *(游戏画面：展示自动环绕攻击与怪物追踪)*
 
 ## ✨ 核心功能 (基于当前源码实现)
