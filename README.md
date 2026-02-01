@@ -6,7 +6,9 @@
 ![C++](https://img.shields.io/badge/Language-C++-00599C?style=flat-square&logo=c%2B%2B)
 ![EasyX](https://img.shields.io/badge/Library-EasyX-orange?style=flat-square)
 ![Genre](https://img.shields.io/badge/Genre-Roguelite-red?style=flat-square)
-![Reference]([https://img.shields.io/badge/Reference-Voidmatrix-pink?style=flat-square&logo=bilibili](https://www.bilibili.com/video/BV1eM4m1S74K/?spm_id_from=333.337.search-card.all.click&vd_source=82e0699084c38bc7273728d632ce1e0a))
+![Reference](https://img.shields.io/badge/Reference-Voidmatrix-pink?style=flat-square&logo=bilibili )
+
+[UP主项目学习链接](https://www.bilibili.com/video/BV1eM4m1S74K/?spm_id_from=333.337.search-card.all.click&vd_source=82e0699084c38bc7273728d632ce1e0a)
 
 ## 📖 项目简介
 
