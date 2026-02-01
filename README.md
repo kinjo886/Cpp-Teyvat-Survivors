@@ -8,8 +8,6 @@
 ![Genre](https://img.shields.io/badge/Genre-Roguelite-red?style=flat-square)
 ![Reference](https://img.shields.io/badge/Reference-Voidmatrix-pink?style=flat-square&logo=bilibili )
 
-[UP主项目学习链接](https://www.bilibili.com/video/BV1eM4m1S74K/?spm_id_from=333.337.search-card.all.click&vd_source=82e0699084c38bc7273728d632ce1e0a)
-
 ## 📖 项目简介
 
 本项目是一个基于 **C++** 和 **EasyX 图形库** 开发的 2D 平面生存游戏。玩家将操控角色在无尽的怪物潮中生存，通过拾取经验球升级，随机选择技能组合，构建独特的战斗流派，体验“割草”般的战斗快感。
@@ -20,13 +18,15 @@
 
 本项目代码逻辑基于 **Voidmatrix** 的《从零开始的C++游戏开发》系列教程编写，素材与音效版权归原作者所有。仅供个人学习与技术交流使用，不用于商业用途。
 
-* **核心教程**: [Voidmatrix (Bilibili)](https://space.bilibili.com/397186666) - 《从零开始的C++游戏开发》
+* **核心教程**: [Voidmatrix (Bilibili)][(https://space.bilibili.com/397186666](https://space.bilibili.com/25864506?spm_id_from=333.337.0.0)) - 《从零开始的C++游戏开发》
 * **美术素材**:
     * [Anokolisa (itch.io)](https://anokolisa.itch.io/sidescroller-pixelart-sprites-asset-pack-forest-16x16) - 场景与基础像素画资源
     * @小苏早睡 - 部分角色与特效素材
 * **音乐音效**:
     * [Pixabay](https://pixabay.com/zh/sound-effects/8bit-sample-69080/) - 8bit 风格音效
 * **IP 声明**: 游戏内涉及的《原神》角色形象（如纳西妲等）版权归 *HoYoverse* 所有，本项目仅作同人编程学习展示。
+
+* [UP主项目学习链接](https://www.bilibili.com/video/BV1eM4m1S74K/?spm_id_from=333.337.search-card.all.click&vd_source=82e0699084c38bc7273728d632ce1e0a)
 
 ---
 
