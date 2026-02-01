@@ -18,7 +18,7 @@
 
 本项目代码逻辑基于 **Voidmatrix** 的《从零开始的C++游戏开发》系列教程编写，素材与音效版权归原作者所有。仅供个人学习与技术交流使用，不用于商业用途。
 
-* **核心教程**: [Voidmatrix (Bilibili)][(https://space.bilibili.com/397186666](https://space.bilibili.com/25864506?spm_id_from=333.337.0.0)) - 《从零开始的C++游戏开发》
+* **核心教程**: [Voidmatrix (Bilibili)](https://space.bilibili.com/25864506?spm_id_from=333.337.0.0) - 《从零开始的C++游戏开发》
 * **美术素材**:
     * [Anokolisa (itch.io)](https://anokolisa.itch.io/sidescroller-pixelart-sprites-asset-pack-forest-16x16) - 场景与基础像素画资源
     * @小苏早睡 - 部分角色与特效素材
